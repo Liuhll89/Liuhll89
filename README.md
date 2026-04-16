@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=liuhll89.liuhll89)
-[<img alt="github" src="https://visitor-badge.laobi.icu/badge/github-liuhll89-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/liuhll89)
+
 
 # ⚡ Favorite languages and tools
 
@@ -35,6 +34,6 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuhll89&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/liuhll89/liuhll89)
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuhll89&repo=silky)](https://github.com/liuhll89/silky)
--->.liuhll89)
+-->
 [<img alt="github" src="https://img.shields.io/badge/github-liuhll89-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/liuhll89)
 
