@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=# Hi there 👋, I'm liuhll89
-
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=liuhll89.liuhll89) Hi there 👋, I'm liuhll
+ 
 <!--
 **liuhll89/liuhll89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=liuhll89.liuhll89)
-[<img alt="github" src="https://img.shields.io/badge/github-liuhll89-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/liuhll89)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=liuhll89.liuhll89)
+[<img alt="github" src="https://visitor-badge.laobi.icu/badge/github-liuhll89-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/liuhll89)
 
 # ⚡ Favorite languages and tools
 
