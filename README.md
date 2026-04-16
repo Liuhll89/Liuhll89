@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=# Hi there 👋, I'm liuhll89
+
 
 <!--
 **liuhll89/liuhll89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
